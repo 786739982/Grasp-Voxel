@@ -1,0 +1,1 @@
+Namespace(batch_size=2, bn_decay_rate=0.5, bn_decay_step=2, camera='realsense', checkpoint_path=None, dataset_root='./dataset', learning_rate=0.001, log_dir='log', lr_decay_rates='0.1,0.1,0.1', lr_decay_steps='8,12,16', max_epoch=18, num_point=20000, num_view=300, weight_decay=0)
