@@ -51,7 +51,7 @@ This approach reduces complex point cloud operations, thereby improving inferenc
 ## Innovations
 
 * Proposes a backbone that uses 2D convolutional layers to extract features from voxelized point clouds.
-* Represente voxelized point cloud in Bird's Eye View (BEV), so that cloud can be extracted features via 2D convolutional layers. Similar to the method used in the [PIXOR](#https://arxiv.org/pdf/1902.06326).
+* Represente voxelized point cloud in Bird's Eye View (BEV), so that cloud can be extracted features via 2D convolutional layers. Similar to the method used in the [PIXOR](https://arxiv.org/pdf/1902.06326).
 
 
 
